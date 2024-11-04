@@ -3,7 +3,7 @@
 ## Introduction
 The use of artificial intelligence in the financial market has been growing annually due to the great capacity of these algorithms to help in decision-making, trend prediction and sentiment analysis. In the context of sentiment analysis, this research was conducted with the objective of creating an efficient pipeline for pre-processing tweets about Brazilian stock exchange shares to prepare them for a next stage to be developed in the master's research of co-author Leandro Araújo (Language model for the Brazilian stock market: An approach based on sentiment analysis using the BERTimbau model)
 
-## Objetivo 
+## Objective
 Test and analyze natural language preprocessing techniques in Portuguese-language tweets about the Brazilian financial market.
 
 ## Methods
